@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the requirement.txt file :
+=======
+this is the requirement.txt file:
+>>>>>>> rel_1.0

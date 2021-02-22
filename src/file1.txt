@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the file.txt
+=======
+this is the fire.txt
+>>>>>>> rel_1.0
